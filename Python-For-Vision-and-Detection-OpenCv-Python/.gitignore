@@ -2,4 +2,5 @@
 ..
 .idea
 venv
-
+.gitignore
+tes.txt
