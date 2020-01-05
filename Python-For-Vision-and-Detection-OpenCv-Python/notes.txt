@@ -1,0 +1,27 @@
+What is image?
+Digital images are typically stored in a matrix.
+There are many diffrent file formates.
+
+   x  
+       |
+       |
+       |
+       |
+       |
+       |
+       |
+       -------------------------------   y
+
+What is ppi or pixel per inch?
+how many pixels per inch of digital image
+
+
+
+Types of Images 
+
+1 -color iamges
+2 -grey Images
+
+
+In grey image each pixel represented the intensity of only one shade that means how dark and bright the pixel is.other word 
+
